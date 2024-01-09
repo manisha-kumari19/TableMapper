@@ -15,6 +15,7 @@ public class TableMapper {
 
    private String tableName;
    private String parentTableName;
-   private Map<String,Object> fields;
+  private Map<String,Object> fields;
+
 
 }

@@ -19,6 +19,7 @@ public class JsonData {
    private String parentTable;
 
 
+
     Map<String, Object> fields = new LinkedHashMap<>();
 
     @JsonSetter
