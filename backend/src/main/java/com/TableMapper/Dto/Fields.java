@@ -12,5 +12,5 @@ public class Fields {
 
     private String mappedTo;
     private String value;
-    private String referencedColumn;
+
 }

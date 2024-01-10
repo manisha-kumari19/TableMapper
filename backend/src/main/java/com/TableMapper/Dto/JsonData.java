@@ -16,9 +16,6 @@ import java.util.Map;
 @ToString
 public class JsonData {
    private String tableName;
-   private String parentTable;
-
-
 
     Map<String, Object> fields = new LinkedHashMap<>();
 
